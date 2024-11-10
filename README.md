@@ -1,3 +1,4 @@
+[![Auto Commit](https://github.com/Keiyn3/always-green/actions/workflows/main.yml/badge.svg)](https://github.com/Keiyn3/always-green/actions/workflows/main.yml)
 # Hi there, I'm Keisya Nadine! 👋
 
 Welcome to my GitHub profile! I'm an IT student with a passion for coding, web development, and learning new technologies. Currently, I'm exploring various programming languages and frameworks to enhance my skills.
@@ -23,6 +24,7 @@ Welcome to my GitHub profile! I'm an IT student with a passion for coding, web d
 - 🌐 [Personal Website](https://keisyanadine.com) (coming soon!)
 
 Feel free to check out my repositories and collaborate on projects. Always open to learning and sharing knowledge!
+
 
 
 
